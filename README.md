@@ -3,6 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-red.svg)](https://streamlit.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/models)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 An interactive web application built with Streamlit to analyze, visualize, and derive deep insights from WhatsApp chat logs. This tool performs everything from statistical analysis to advanced NLP tasks like sentiment analysis on Hinglish text and automatic topic modeling.
 
