@@ -16,7 +16,7 @@ WhatsApp chat logs are unstructured text files filled with valuable data. Howeve
 
 The project's key challenge and feature is its ability to accurately analyze **Hinglish** (a mix of Hindi and English), a common language in informal chats where standard NLP tools fail.
 
-![Alt Text](Screenshot (57).png)
+![Alt Text](Images/Screenshot(57).png)
 
 ---
 
