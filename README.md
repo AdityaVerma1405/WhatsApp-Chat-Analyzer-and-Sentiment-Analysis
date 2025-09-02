@@ -45,3 +45,11 @@ The project follows a standard data science application workflow:
 ---
 
 ## 4. Folder Structure
+
+├── app.py                  # Main Streamlit application script
+├── helper.py               # All analysis and NLP functions
+├── preprocessor.py         # Data cleaning and preparation function
+├── requirements.txt        # Required Python libraries for deployment
+├── stop_hinglish.txt       # Custom Hinglish/English stop words list
+├── screenshots/            # Folder for README images
+└── README.md
