@@ -18,6 +18,8 @@ The project's key challenge and feature is its ability to accurately analyze **H
 
 ![Alt Text](Images/Screenshot(57).png)
 
+![Alt Text](https://github.com/AdityaVerma1405/WhatsApp-Chat-Analyzer-and-Sentiment-Analysis/blob/7e866fc035fb43c824c7ca289c56985695a1073c/Images/Screenshot%20(58).png)
+
 ---
 
 ## 2. Key Features
