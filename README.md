@@ -53,7 +53,6 @@ The project follows a standard data science application workflow:
 ├── stop_hinglish.txt       # Custom Hinglish/English stop words list
 ├── screenshots/            # Folder for README images
 └── README.md
----
 
 ## 5. Tech Stack
 
