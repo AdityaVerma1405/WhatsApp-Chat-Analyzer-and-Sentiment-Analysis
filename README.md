@@ -6,7 +6,7 @@
 
 An interactive web application built with Streamlit to analyze, visualize, and derive deep insights from WhatsApp chat logs. This tool performs everything from statistical analysis to advanced NLP tasks like sentiment analysis on Hinglish text and automatic topic modeling.
 
-**Live Demo:** *[Your Streamlit App URL Here]*
+**Live Demo:** *[https://whatsapp-chat-analyzer-and-sentiment-analysis-fwx5d3bsekcu8ahc.streamlit.app/]*
 
 ---
 
@@ -53,3 +53,17 @@ The project follows a standard data science application workflow:
 ├── stop_hinglish.txt       # Custom Hinglish/English stop words list
 ├── screenshots/            # Folder for README images
 └── README.md
+---
+
+## 5. Tech Stack
+
+| Area      | Tools                                                              |
+| :-------- | :----------------------------------------------------------------- |
+| **Backend** | Python, Pandas, NumPy                                              |
+| **Frontend** | Streamlit                                                          |
+| **ML/NLP** | Scikit-learn (`CountVectorizer`, `LatentDirichletAllocation`)        |
+| **Sentiment** | Hugging Face Transformers (`pipeline`), NLTK                       |
+| **Data Viz** | Matplotlib, Seaborn, WordCloud                                     |
+| **Dev Tools** | Git, GitHub, VS Code                                               |
+
+---
