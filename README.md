@@ -19,19 +19,21 @@ The project's key challenge and feature is its ability to accurately analyze **H
 ![Alt Text](Images/Screenshot(57).png)
 
 ![Alt Text](https://github.com/AdityaVerma1405/WhatsApp-Chat-Analyzer-and-Sentiment-Analysis/blob/7e866fc035fb43c824c7ca289c56985695a1073c/Images/Screenshot%20(58).png)
+![Alt Text](https://github.com/AdityaVerma1405/WhatsApp-Chat-Analyzer-and-Sentiment-Analysis/blob/0e744193e264b8355768f1bdce07228073a87298/Images/Screenshot%20(59).png)
 
 ---
 
 ## 2. Key Features
 
 -   **Comprehensive Statistical Dashboard:** The main view displays key metrics, including total messages, words, media shared, and links. It also visualizes user activity through timelines, heatmaps, and rankings of the busiest users, days, and months.
-
+![Alt Text](https://github.com/AdityaVerma1405/WhatsApp-Chat-Analyzer-and-Sentiment-Analysis/blob/0e744193e264b8355768f1bdce07228073a87298/Images/Screenshot%20(60).png)
+![Alt Text](https://github.com/AdityaVerma1405/WhatsApp-Chat-Analyzer-and-Sentiment-Analysis/blob/0e744193e264b8355768f1bdce07228073a87298/Images/Screenshot%20(61).png)
     -   **Accurate Hinglish Sentiment Analysis:** The app goes beyond simple analysis by using a state-of-the-art **Hugging Face transformer model** (`pascalrai/hinglish-twitter-roberta-base-sentiment`). This model is specifically fine-tuned on Hinglish social media text, allowing it to accurately determine if messages are positive, negative, or neutral.
-
+![Alt Text](https://github.com/AdityaVerma1405/WhatsApp-Chat-Analyzer-and-Sentiment-Analysis/blob/0e744193e264b8355768f1bdce07228073a87298/Images/Screenshot%20(65).png)
     -   **Automatic Topic Modeling:** Uses **Latent Dirichlet Allocation (LDA)** to automatically discover the top 5 underlying themes of the conversation, providing a high-level summary of what the group talks about most.
-
+![Alt Text](https://github.com/AdityaVerma1405/WhatsApp-Chat-Analyzer-and-Sentiment-Analysis/blob/0e744193e264b8355768f1bdce07228073a87298/Images/Screenshot%20(63).png)
 -   **In-Depth Word and Emoji Analysis:** Identifies and visualizes the most frequently used words and emojis in the chat. This feature uses a custom **Hinglish stop-word list** to filter out common, non-essential words, ensuring the results are meaningful.
-
+![Alt Text](https://github.com/AdityaVerma1405/WhatsApp-Chat-Analyzer-and-Sentiment-Analysis/blob/0e744193e264b8355768f1bdce07228073a87298/Images/Screenshot%20(64).png)
     ---
 
 ## 3. Workflow Explained
