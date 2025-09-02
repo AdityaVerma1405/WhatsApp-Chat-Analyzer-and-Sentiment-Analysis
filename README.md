@@ -77,13 +77,13 @@ The project follows a standard data science application workflow:
 
 - **User-Level Topic Modeling:** Allow the user to see the main topics of conversation for a specific individual, not just the overall group.
 ---
-## 👤 About Me
+## 7. About Me
 **Aditya Verma**  
 Connect with me:  
 [LinkedIn](https://www.linkedin.com/in/aditya-verma-057129316/) | [GitHub](https://github.com/AdityaVerma1405)
 
 ---
 
-## 📜 License
+## 8. License
 This project is licensed under the **MIT License** — feel free to use and modify.
 
