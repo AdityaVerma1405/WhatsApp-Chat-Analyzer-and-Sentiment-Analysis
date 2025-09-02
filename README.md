@@ -67,3 +67,23 @@ The project follows a standard data science application workflow:
 | **Dev Tools** | Git, GitHub, VS Code                                               |
 
 ---
+## 6. Future Enhancements
+
+- **Interactive Visualizations:** Replace current Matplotlib charts with Plotly to allow for interactive exploration (hovering, zooming).
+
+- **Social Network Graph:** Create a graph visualization to map who talks to whom most frequently, revealing social dynamics and subgroups within the chat.
+
+- **Response Time Analysis:** Calculate the average time it takes for users to respond to messages, identifying the "fastest repliers."
+
+- **User-Level Topic Modeling:** Allow the user to see the main topics of conversation for a specific individual, not just the overall group.
+---
+## 👤 About Me
+**Aditya Verma**  
+Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/aditya-verma-057129316/) | [GitHub](https://github.com/AdityaVerma1405)
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** — feel free to use and modify.
+
